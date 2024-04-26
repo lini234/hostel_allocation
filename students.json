@@ -1,0 +1,282 @@
+[
+  {
+    "student_id": 1,
+    "course": "Computer Science",
+    "cgpa": 3.8,
+    "temperament": "introverted",
+    "cultural": "American"
+  },
+  {
+    "student_id": 2,
+    "course": "Engineering",
+    "cgpa": 3.5,
+    "temperament": "extroverted",
+    "cultural": "Chinese"
+  },
+  {
+    "student_id": 3,
+    "course": "Biology",
+    "cgpa": 3.2,
+    "temperament": "introverted",
+    "cultural": "Indian"
+  },
+  {
+    "student_id": 4,
+    "course": "Economics",
+    "cgpa": 3.9,
+    "temperament": "extroverted",
+    "cultural": "French"
+  },
+  {
+    "student_id": 5,
+    "course": "Psychology",
+    "cgpa": 3.4,
+    "temperament": "introverted",
+    "cultural": "Japanese"
+  },
+  {
+    "student_id": 6,
+    "course": "Mathematics",
+    "cgpa": 3.7,
+    "temperament": "extroverted",
+    "cultural": "British"
+  },
+  {
+    "student_id": 7,
+    "course": "Physics",
+    "cgpa": 3.6,
+    "temperament": "introverted",
+    "cultural": "German"
+  },
+  {
+    "student_id": 8,
+    "course": "Chemistry",
+    "cgpa": 3.3,
+    "temperament": "extroverted",
+    "cultural": "Russian"
+  },
+  {
+    "student_id": 9,
+    "course": "History",
+    "cgpa": 3.1,
+    "temperament": "introverted",
+    "cultural": "Spanish"
+  },
+  {
+    "student_id": 10,
+    "course": "Sociology",
+    "cgpa": 3.8,
+    "temperament": "extroverted",
+    "cultural": "Italian"
+  },
+  {
+    "student_id": 11,
+    "course": "Political Science",
+    "cgpa": 3.2,
+    "temperament": "introverted",
+    "cultural": "Australian"
+  },
+  {
+    "student_id": 12,
+    "course": "Art",
+    "cgpa": 3.5,
+    "temperament": "extroverted",
+    "cultural": "Canadian"
+  },
+  {
+    "student_id": 13,
+    "course": "Music",
+    "cgpa": 3.9,
+    "temperament": "introverted",
+    "cultural": "Mexican"
+  },
+  {
+    "student_id": 14,
+    "course": "Literature",
+    "cgpa": 3.6,
+    "temperament": "extroverted",
+    "cultural": "Brazilian"
+  },
+  {
+    "student_id": 15,
+    "course": "Philosophy",
+    "cgpa": 3.4,
+    "temperament": "introverted",
+    "cultural": "Swedish"
+  },
+  {
+    "student_id": 16,
+    "course": "Business",
+    "cgpa": 3.7,
+    "temperament": "extroverted",
+    "cultural": "Swiss"
+  },
+  {
+    "student_id": 17,
+    "course": "Environmental Science",
+    "cgpa": 3.5,
+    "temperament": "introverted",
+    "cultural": "Dutch"
+  },
+  {
+    "student_id": 18,
+    "course": "Geology",
+    "cgpa": 3.3,
+    "temperament": "extroverted",
+    "cultural": "Norwegian"
+  },
+  {
+    "student_id": 19,
+    "course": "Anthropology",
+    "cgpa": 3.1,
+    "temperament": "introverted",
+    "cultural": "Danish"
+  },
+  {
+    "student_id": 20,
+    "course": "Education",
+    "cgpa": 3.8,
+    "temperament": "extroverted",
+    "cultural": "Finnish"
+  },
+  {
+    "student_id": 21,
+    "course": "Communication",
+    "cgpa": 3.2,
+    "temperament": "introverted",
+    "cultural": "Irish"
+  },
+  {
+    "student_id": 22,
+    "course": "Health Science",
+    "cgpa": 3.5,
+    "temperament": "extroverted",
+    "cultural": "Scottish"
+  },
+  {
+    "student_id": 23,
+    "course": "Nursing",
+    "cgpa": 3.9,
+    "temperament": "introverted",
+    "cultural": "South African"
+  },
+  {
+    "student_id": 24,
+    "course": "Public Administration",
+    "cgpa": 3.6,
+    "temperament": "extroverted",
+    "cultural": "Israeli"
+  },
+  {
+    "student_id": 25,
+    "course": "Journalism",
+    "cgpa": 3.4,
+    "temperament": "introverted",
+    "cultural": "Egyptian"
+  },
+  {
+    "student_id": 26,
+    "course": "Nutrition",
+    "cgpa": 3.7,
+    "temperament": "extroverted",
+    "cultural": "Kenyan"
+  },
+  {
+    "student_id": 27,
+    "course": "Architecture",
+    "cgpa": 3.5,
+    "temperament": "introverted",
+    "cultural": "Greek"
+  },
+  {
+    "student_id": 28,
+    "course": "Physical Therapy",
+    "cgpa": 3.3,
+    "temperament": "extroverted",
+    "cultural": "Turkish"
+  },
+  {
+    "student_id": 29,
+    "course": "Dentistry",
+    "cgpa": 3.1,
+    "temperament": "introverted",
+    "cultural": "Saudi Arabian"
+  },
+  {
+    "student_id": 30,
+    "course": "Veterinary Medicine",
+    "cgpa": 3.8,
+    "temperament": "extroverted",
+    "cultural": "Thai"
+  },
+  {
+    "student_id": 31,
+    "course": "Agriculture",
+    "cgpa": 3.2,
+    "temperament": "introverted",
+    "cultural": "Singaporean"
+  },
+  {
+    "student_id": 32,
+    "course": "Linguistics",
+    "cgpa": 3.5,
+    "temperament": "extroverted",
+    "cultural": "Korean"
+  },
+  {
+    "student_id": 33,
+    "course": "Law",
+    "cgpa": 3.9,
+    "temperament": "introverted",
+    "cultural": "Malaysian"
+  },
+  {
+    "student_id": 34,
+    "course": "Criminal Justice",
+    "cgpa": 3.6,
+    "temperament": "extroverted",
+    "cultural": "Indonesian"
+  },
+  {
+    "student_id": 35,
+    "course": "Film Studies",
+    "cgpa": 3.4,
+    "temperament": "introverted",
+    "cultural": "Vietnamese"
+  },
+  {
+    "student_id": 36,
+    "course": "Social Work",
+    "cgpa": 3.7,
+    "temperament": "extroverted",
+    "cultural": "Filipino"
+  },
+  {
+    "student_id": 37,
+    "course": "Fashion Design",
+    "cgpa": 3.5,
+    "temperament": "introverted",
+    "cultural": "Bangladeshi"
+  },
+  {
+    "student_id": 38,
+    "course": "Hospitality Management",
+    "cgpa": 3.3,
+    "temperament": "extroverted",
+    "cultural": "Nigerian"
+  },
+  {
+    "student_id": 39,
+    "course": "Marine Biology",
+    "cgpa": 3.1,
+    "temperament": "introverted",
+    "cultural": "Jamaican"
+  },
+  {
+    "student_id": 40,
+    "course": "Geography",
+    "cgpa": 3.8,
+    "temperament": "extroverted",
+    "cultural": "Peruvian"
+  }
+]
