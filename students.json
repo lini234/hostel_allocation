@@ -1,282 +1,552 @@
 [
   {
     "student_id": 1,
+    "name": "Abdullahi Mohammed",
     "course": "Computer Science",
-    "cgpa": 3.8,
-    "temperament": "introverted",
-    "cultural": "American"
+    "faculty": "Science",
+    "cgpa": 4.2,
+    "temperament": "Introvert",
+    "cultural": "Yoruba",
+    "state": "Kano",
+    "zone": "North-West"
   },
   {
     "student_id": 2,
+    "name": "Chinyere Okonkwo",
     "course": "Engineering",
+    "faculty": "Engineering",
     "cgpa": 3.5,
-    "temperament": "extroverted",
-    "cultural": "Chinese"
+    "temperament": "Extrovert",
+    "cultural": "Igbo",
+    "state": "Anambra",
+    "zone": "South-East"
   },
   {
     "student_id": 3,
-    "course": "Biology",
-    "cgpa": 3.2,
-    "temperament": "introverted",
-    "cultural": "Indian"
+    "name": "Fatima Yusuf",
+    "course": "Physics",
+    "faculty": "Science",
+    "cgpa": 4.8,
+    "temperament": "Introvert",
+    "cultural": "Hausa",
+    "state": "Katsina",
+    "zone": "North-West"
   },
   {
     "student_id": 4,
-    "course": "Economics",
-    "cgpa": 3.9,
-    "temperament": "extroverted",
-    "cultural": "French"
+    "name": "Muhammad Sani",
+    "course": "Mathematics",
+    "faculty": "Science",
+    "cgpa": 2.9,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Zamfara",
+    "zone": "North-West"
   },
   {
     "student_id": 5,
-    "course": "Psychology",
-    "cgpa": 3.4,
-    "temperament": "introverted",
-    "cultural": "Japanese"
+    "name": "Blessing Adeleke",
+    "course": "Chemistry",
+    "faculty": "Science",
+    "cgpa": 4.0,
+    "temperament": "Introvert",
+    "cultural": "Yoruba",
+    "state": "Osun",
+    "zone": "South-West"
   },
   {
     "student_id": 6,
-    "course": "Mathematics",
+    "name": "Obinna Nwachukwu",
+    "course": "Computer Science",
+    "faculty": "Science",
     "cgpa": 3.7,
-    "temperament": "extroverted",
-    "cultural": "British"
+    "temperament": "Extrovert",
+    "cultural": "Igbo",
+    "state": "Imo",
+    "zone": "South-East"
   },
   {
     "student_id": 7,
-    "course": "Physics",
-    "cgpa": 3.6,
-    "temperament": "introverted",
-    "cultural": "German"
+    "name": "Aisha Bello",
+    "course": "Engineering",
+    "faculty": "Engineering",
+    "cgpa": 4.5,
+    "temperament": "Introvert",
+    "cultural": "Hausa",
+    "state": "Jigawa",
+    "zone": "North-West"
   },
   {
     "student_id": 8,
-    "course": "Chemistry",
-    "cgpa": 3.3,
-    "temperament": "extroverted",
-    "cultural": "Russian"
+    "name": "Chukwudi Okoye",
+    "course": "Physics",
+    "faculty": "Science",
+    "cgpa": 3.2,
+    "temperament": "Extrovert",
+    "cultural": "Igbo",
+    "state": "Enugu",
+    "zone": "South-East"
   },
   {
     "student_id": 9,
-    "course": "History",
-    "cgpa": 3.1,
-    "temperament": "introverted",
-    "cultural": "Spanish"
+    "name": "Halima Ibrahim",
+    "course": "Mathematics",
+    "faculty": "Science",
+    "cgpa": 4.1,
+    "temperament": "Introvert",
+    "cultural": "Hausa",
+    "state": "Borno",
+    "zone": "North-East"
   },
   {
     "student_id": 10,
-    "course": "Sociology",
-    "cgpa": 3.8,
-    "temperament": "extroverted",
-    "cultural": "Italian"
+    "name": "Abubakar Abdullahi",
+    "course": "Chemistry",
+    "faculty": "Science",
+    "cgpa": 3.9,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Yobe",
+    "zone": "North-East"
   },
   {
     "student_id": 11,
-    "course": "Political Science",
-    "cgpa": 3.2,
-    "temperament": "introverted",
-    "cultural": "Australian"
+    "name": "Ngozi Okafor",
+    "course": "Computer Science",
+    "faculty": "Science",
+    "cgpa": 4.3,
+    "temperament": "Introvert",
+    "cultural": "Igbo",
+    "state": "Delta",
+    "zone": "South-South"
   },
   {
     "student_id": 12,
-    "course": "Art",
-    "cgpa": 3.5,
-    "temperament": "extroverted",
-    "cultural": "Canadian"
+    "name": "Oluwaseun Adeyemi",
+    "course": "Engineering",
+    "faculty": "Engineering",
+    "cgpa": 3.6,
+    "temperament": "Extrovert",
+    "cultural": "Yoruba",
+    "state": "Oyo",
+    "zone": "South-West"
   },
   {
     "student_id": 13,
-    "course": "Music",
-    "cgpa": 3.9,
-    "temperament": "introverted",
-    "cultural": "Mexican"
+    "name": "Ibrahim Aliyu",
+    "course": "Physics",
+    "faculty": "Science",
+    "cgpa": 4.7,
+    "temperament": "Introvert",
+    "cultural": "Hausa",
+    "state": "Sokoto",
+    "zone": "North-West"
   },
   {
     "student_id": 14,
-    "course": "Literature",
-    "cgpa": 3.6,
-    "temperament": "extroverted",
-    "cultural": "Brazilian"
+    "name": "Aisha Mohammed",
+    "course": "Mathematics",
+    "faculty": "Science",
+    "cgpa": 3.3,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Kebbi",
+    "zone": "North-West"
   },
   {
     "student_id": 15,
-    "course": "Philosophy",
-    "cgpa": 3.4,
-    "temperament": "introverted",
-    "cultural": "Swedish"
+    "name": "Chidimma Eze",
+    "course": "Chemistry",
+    "faculty": "Science",
+    "cgpa": 4.0,
+    "temperament": "Introvert",
+    "cultural": "Igbo",
+    "state": "Ebonyi",
+    "zone": "South-East"
   },
   {
     "student_id": 16,
-    "course": "Business",
-    "cgpa": 3.7,
-    "temperament": "extroverted",
-    "cultural": "Swiss"
+    "name": "Suleiman Ibrahim",
+    "course": "Computer Science",
+    "faculty": "Science",
+    "cgpa": 3.8,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Kogi",
+    "zone": "North-Central"
   },
   {
     "student_id": 17,
-    "course": "Environmental Science",
-    "cgpa": 3.5,
-    "temperament": "introverted",
-    "cultural": "Dutch"
+    "name": "Adesua Adekunle",
+    "course": "Engineering",
+    "faculty": "Engineering",
+    "cgpa": 4.4,
+    "temperament": "Introvert",
+    "cultural": "Yoruba",
+    "state": "Ekiti",
+    "zone": "South-West"
   },
   {
     "student_id": 18,
-    "course": "Geology",
-    "cgpa": 3.3,
-    "temperament": "extroverted",
-    "cultural": "Norwegian"
+    "name": "Chukwuemeka Nwosu",
+    "course": "Physics",
+    "faculty": "Science",
+    "cgpa": 3.5,
+    "temperament": "Extrovert",
+    "cultural": "Igbo",
+    "state": "Abia",
+    "zone": "South-East"
   },
   {
     "student_id": 19,
-    "course": "Anthropology",
-    "cgpa": 3.1,
-    "temperament": "introverted",
-    "cultural": "Danish"
+    "name": "Amina Umar",
+    "course": "Mathematics",
+    "faculty": "Science",
+    "cgpa": 4.2,
+    "temperament": "Introvert",
+    "cultural": "Hausa",
+    "state": "Adamawa",
+    "zone": "North-East"
   },
   {
     "student_id": 20,
-    "course": "Education",
-    "cgpa": 3.8,
-    "temperament": "extroverted",
-    "cultural": "Finnish"
+    "name": "Emeka Okonkwo",
+    "course": "Chemistry",
+    "faculty": "Science",
+    "cgpa": 3.4,
+    "temperament": "Extrovert",
+    "cultural": "Igbo",
+    "state": "Enugu",
+    "zone": "South-East"
   },
   {
     "student_id": 21,
-    "course": "Communication",
-    "cgpa": 3.2,
-    "temperament": "introverted",
-    "cultural": "Irish"
+    "name": "Folake Adegbite",
+    "course": "Computer Science",
+    "faculty": "Science",
+    "cgpa": 4.1,
+    "temperament": "Introvert",
+    "cultural": "Yoruba",
+    "state": "Ekiti",
+    "zone": "South-West"
   },
   {
     "student_id": 22,
-    "course": "Health Science",
-    "cgpa": 3.5,
-    "temperament": "extroverted",
-    "cultural": "Scottish"
+    "name": "Musa Shehu",
+    "course": "Engineering",
+    "faculty": "Engineering",
+    "cgpa": 3.7,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Kano",
+    "zone": "North-West"
   },
   {
     "student_id": 23,
-    "course": "Nursing",
-    "cgpa": 3.9,
-    "temperament": "introverted",
-    "cultural": "South African"
+    "name": "Ifeoma Chukwu",
+    "course": "Physics",
+    "faculty": "Science",
+    "cgpa": 4.6,
+    "temperament": "Introvert",
+    "cultural": "Igbo",
+    "state": "Imo",
+    "zone": "South-East"
   },
   {
     "student_id": 24,
-    "course": "Public Administration",
-    "cgpa": 3.6,
-    "temperament": "extroverted",
-    "cultural": "Israeli"
+    "name": "Yakubu Danjuma",
+    "course": "Mathematics",
+    "faculty": "Science",
+    "cgpa": 3.0,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Kaduna",
+    "zone": "North-West"
   },
   {
     "student_id": 25,
-    "course": "Journalism",
-    "cgpa": 3.4,
-    "temperament": "introverted",
-    "cultural": "Egyptian"
+    "name": "Funmilayo Adekoya",
+    "course": "Chemistry",
+    "faculty": "Science",
+    "cgpa": 4.0,
+    "temperament": "Introvert",
+    "cultural": "Yoruba",
+    "state": "Ogun",
+    "zone": "South-West"
   },
   {
     "student_id": 26,
-    "course": "Nutrition",
-    "cgpa": 3.7,
-    "temperament": "extroverted",
-    "cultural": "Kenyan"
+    "name": "Sani Abdullahi",
+    "course": "Computer Science",
+    "faculty": "Science",
+    "cgpa": 3.9,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Bauchi",
+    "zone": "North-East"
   },
   {
     "student_id": 27,
-    "course": "Architecture",
-    "cgpa": 3.5,
-    "temperament": "introverted",
-    "cultural": "Greek"
+    "name": "Ngozi Onwuka",
+    "course": "Engineering",
+    "faculty": "Engineering",
+    "cgpa": 4.3,
+    "temperament": "Introvert",
+    "cultural": "Igbo",
+    "state": "Abia",
+    "zone": "South-East"
   },
   {
     "student_id": 28,
-    "course": "Physical Therapy",
+    "name": "Tunde Balogun",
+    "course": "Physics",
+    "faculty": "Science",
     "cgpa": 3.3,
-    "temperament": "extroverted",
-    "cultural": "Turkish"
+    "temperament": "Extrovert",
+    "cultural": "Yoruba",
+    "state": "Ondo",
+    "zone": "South-West"
   },
   {
     "student_id": 29,
-    "course": "Dentistry",
-    "cgpa": 3.1,
-    "temperament": "introverted",
-    "cultural": "Saudi Arabian"
+    "name": "Chioma Nnamdi",
+    "course": "Mathematics",
+    "faculty": "Science",
+    "cgpa": 4.0,
+    "temperament": "Introvert",
+    "cultural": "Igbo",
+    "state": "Ebonyi",
+    "zone": "South-East"
   },
   {
     "student_id": 30,
-    "course": "Veterinary Medicine",
+    "name": "Usman Ahmad",
+    "course": "Chemistry",
+    "faculty": "Science",
     "cgpa": 3.8,
-    "temperament": "extroverted",
-    "cultural": "Thai"
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Katsina",
+    "zone": "North-West"
   },
   {
     "student_id": 31,
-    "course": "Agriculture",
-    "cgpa": 3.2,
-    "temperament": "introverted",
-    "cultural": "Singaporean"
+    "name": "Bukola Adewale",
+    "course": "Computer Science",
+    "faculty": "Science",
+    "cgpa": 4.2,
+    "temperament": "Introvert",
+    "cultural": "Yoruba",
+    "state": "Ogun",
+    "zone": "South-West"
   },
   {
     "student_id": 32,
-    "course": "Linguistics",
+    "name": "Yakubu Bala",
+    "course": "Engineering",
+    "faculty": "Engineering",
     "cgpa": 3.5,
-    "temperament": "extroverted",
-    "cultural": "Korean"
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Kano",
+    "zone": "North-West"
   },
   {
     "student_id": 33,
-    "course": "Law",
-    "cgpa": 3.9,
-    "temperament": "introverted",
-    "cultural": "Malaysian"
+    "name": "Nkechi Okafor",
+    "course": "Physics",
+    "faculty": "Science",
+    "cgpa": 4.8,
+    "temperament": "Introvert",
+    "cultural": "Igbo",
+    "state": "Imo",
+    "zone": "South-East"
   },
   {
     "student_id": 34,
-    "course": "Criminal Justice",
-    "cgpa": 3.6,
-    "temperament": "extroverted",
-    "cultural": "Indonesian"
+    "name": "Yusuf Ibrahim",
+    "course": "Mathematics",
+    "faculty": "Science",
+    "cgpa": 2.9,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Jigawa",
+    "zone": "North-West"
   },
   {
     "student_id": 35,
-    "course": "Film Studies",
-    "cgpa": 3.4,
-    "temperament": "introverted",
-    "cultural": "Vietnamese"
+    "name": "Adeola Adebayo",
+    "course": "Chemistry",
+    "faculty": "Science",
+    "cgpa": 4.0,
+    "temperament": "Introvert",
+    "cultural": "Yoruba",
+    "state": "Ondo",
+    "zone": "South-West"
   },
   {
     "student_id": 36,
-    "course": "Social Work",
+    "name": "Chinonso Okoye",
+    "course": "Computer Science",
+    "faculty": "Science",
     "cgpa": 3.7,
-    "temperament": "extroverted",
-    "cultural": "Filipino"
+    "temperament": "Extrovert",
+    "cultural": "Igbo",
+    "state": "Anambra",
+    "zone": "South-East"
   },
   {
     "student_id": 37,
-    "course": "Fashion Design",
-    "cgpa": 3.5,
-    "temperament": "introverted",
-    "cultural": "Bangladeshi"
+    "name": "Fatima Ahmed",
+    "course": "Engineering",
+    "faculty": "Engineering",
+    "cgpa": 4.5,
+    "temperament": "Introvert",
+    "cultural": "Hausa",
+    "state": "Kebbi",
+    "zone": "North-West"
   },
   {
     "student_id": 38,
-    "course": "Hospitality Management",
-    "cgpa": 3.3,
-    "temperament": "extroverted",
-    "cultural": "Nigerian"
+    "name": "Chidinma Chukwuemeka",
+    "course": "Physics",
+    "faculty": "Science",
+    "cgpa": 3.2,
+    "temperament": "Extrovert",
+    "cultural": "Igbo",
+    "state": "Enugu",
+    "zone": "South-East"
   },
   {
     "student_id": 39,
-    "course": "Marine Biology",
-    "cgpa": 3.1,
-    "temperament": "introverted",
-    "cultural": "Jamaican"
+    "name": "Aliyu Adamu",
+    "course": "Mathematics",
+    "faculty": "Science",
+    "cgpa": 4.1,
+    "temperament": "Introvert",
+    "cultural": "Hausa",
+    "state": "Nasarawa",
+    "zone": "North-Central"
   },
   {
     "student_id": 40,
-    "course": "Geography",
+    "name": "Sadiya Musa",
+    "course": "Chemistry",
+    "faculty": "Science",
+    "cgpa": 3.9,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Sokoto",
+    "zone": "North-West"
+  },
+  {
+    "student_id": 41,
+    "name": "Yemi Adeleke",
+    "course": "Computer Science",
+    "faculty": "Science",
+    "cgpa": 4.3,
+    "temperament": "Introvert",
+    "cultural": "Yoruba",
+    "state": "Ekiti",
+    "zone": "South-West"
+  },
+  {
+    "student_id": 42,
+    "name": "Musa Mohammed",
+    "course": "Engineering",
+    "faculty": "Engineering",
+    "cgpa": 3.6,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Kaduna",
+    "zone": "North-West"
+  },
+  {
+    "student_id": 43,
+    "name": "Uchenna Okonkwo",
+    "course": "Physics",
+    "faculty": "Science",
+    "cgpa": 4.7,
+    "temperament": "Introvert",
+    "cultural": "Igbo",
+    "state": "Abia",
+    "zone": "South-East"
+  },
+  {
+    "student_id": 44,
+    "name": "Folashade Adewale",
+    "course": "Mathematics",
+    "faculty": "Science",
+    "cgpa": 3.3,
+    "temperament": "Extrovert",
+    "cultural": "Yoruba",
+    "state": "Ogun",
+    "zone": "South-West"
+  },
+  {
+    "student_id": 45,
+    "name": "Adedeji Adeyemi",
+    "course": "Chemistry",
+    "faculty": "Science",
+    "cgpa": 4.0,
+    "temperament": "Introvert",
+    "cultural": "Yoruba",
+    "state": "Ondo",
+    "zone": "South-West"
+  },
+  {
+    "student_id": 46,
+    "name": "Musa Shehu",
+    "course": "Computer Science",
+    "faculty": "Science",
+    "cgpa": 3.9,
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Kano",
+    "zone": "North-West"
+  },
+  {
+    "student_id": 47,
+    "name": "Eberechi Nwachukwu",
+    "course": "Engineering",
+    "faculty": "Engineering",
+    "cgpa": 4.3,
+    "temperament": "Introvert",
+    "cultural": "Igbo",
+    "state": "Ebonyi",
+    "zone": "South-East"
+  },
+  {
+    "student_id": 48,
+    "name": "Tolu Adekunle",
+    "course": "Physics",
+    "faculty": "Science",
+    "cgpa": 3.3,
+    "temperament": "Extrovert",
+    "cultural": "Yoruba",
+    "state": "Lagos",
+    "zone": "South-West"
+  },
+  {
+    "student_id": 49,
+    "name": "Omotayo Balogun",
+    "course": "Mathematics",
+    "faculty": "Science",
+    "cgpa": 4.0,
+    "temperament": "Introvert",
+    "cultural": "Yoruba",
+    "state": "Ogun",
+    "zone": "South-West"
+  },
+  {
+    "student_id": 50,
+    "name": "Aisha Abdullahi",
+    "course": "Chemistry",
+    "faculty": "Science",
     "cgpa": 3.8,
-    "temperament": "extroverted",
-    "cultural": "Peruvian"
+    "temperament": "Extrovert",
+    "cultural": "Hausa",
+    "state": "Zamfara",
+    "zone": "North-West"
   }
 ]

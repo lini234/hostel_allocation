@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<section>
+    <h2>Room Occupancy</h2>
+    <div class="chart-container">
+        <!-- Placeholder for occupancy chart -->
+        <canvas id="occupancyChart" width="400" height="200"></canvas>
+    </div>
+    <p>Total number of rooms in the hostel: <span id="totalRooms">50</span></p>
+    <p>Number of rooms occupied: <span id="occupiedRooms">30</span></p>
+    <p>Number of rooms available: <span id="availableRooms">20</span></p>
+    <p>Percentage of occupancy: <span id="occupancyPercentage">60%</span></p>
+</section>
+{% endblock %}

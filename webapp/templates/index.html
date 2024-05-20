@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>Welcome to School Hostel Allocation System</h2>
+    <div class="stats">
+        <div class="stat-item">
+            <div class="stat-title">Number of Students</div>
+            <div class="stat-value">{{ num_students }}</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-title">Number of Rooms Available</div>
+            <div class="stat-value">{{ num_rooms_available }}</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-title">Number of Rooms Occupied</div>
+            <div class="stat-value">{{ num_rooms_occupied }}</div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="static/css/index.css">
+{% endblock %}
